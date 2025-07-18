@@ -38,16 +38,6 @@ I'm a full-stack developer with hands-on experience in React, Python, HTML/CSS, 
 
 ---
 
-## 📂 پروژه‌ها | My Projects
-
-| پروژه | Project | توضیح |
-|--------|---------|-------|
-| 🧠 ابزار مارکتینگ AI | AI Mrketing Assistant | اپلیکیشن تحت وب برای سیستم مارکتینگ شرکت ها |
-| 🛠 پنل خدمات مکانیکی | Mechanic Services Platform | رابط کاربری برای ثبت سفارش خدمات خودرو |
-| 🪒 سیستم مدیریت آرایشگاه | Hairdresser Management System  | پلتفرم ثبت وقت آرایشگاه ها |
-
----
-
 ## 📬 لینک‌ها | Links
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehregan-solgi-90a735285/)  
